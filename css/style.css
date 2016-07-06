@@ -1,0 +1,116 @@
+.nav2 {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: blue;
+    display: inline;
+  }
+
+.nav2 li {
+    float: left;
+}
+
+.nav2 li a {
+    display: block;
+    color: red;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    margin: 2px;
+}
+
+.boxlist ul {
+  float: left;
+  display: inline;
+  }
+
+.boxlist2 ul {
+  float: left;
+  display: inline;
+
+}
+
+.boxlist3 ul {
+  float: right;
+  display: inline;
+
+}
+
+.b1{
+  float: left;
+  background-color: tan;
+  width: 32%
+}
+
+.b2{
+  float: left;
+  background-color: tan;
+  width: 32%;
+  margin-left: 2%;
+}
+
+.b3{
+  float: right;
+  background-color: tan;
+  width: 32%;
+}
+
+.headertext {
+  background-image: url('../images/header.jpg');
+  height: 300px;
+}
+
+.whitebox {
+  background-color: white;
+  margin: 150px;
+}
+
+.greenbox {
+  background-color: green;
+  height: 220px;
+  width: 32%;
+  float: left;
+}
+
+.bluebox {
+  background-color: blue;
+  height: 220px;
+  width: 32%;
+  float: left;
+  margin-left: 2%;
+}
+
+.blackbox {
+  background-color: black;
+  color: white;
+  height: 220px;
+  width: 32%;
+  float: right;
+}
+
+ul {
+  display: block;
+}
+
+.textbox1{
+  float: left;
+}
+
+.textbox2{
+  float: right;
+}
+
+.textbox3{
+  float: left;
+}
+
+.textbox4{
+  float: right;
+}
+
+
+@media(max-width: 979px) {
+	h1
+  h2
+}
